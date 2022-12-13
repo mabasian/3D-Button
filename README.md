@@ -1,3 +1,3 @@
 # 3D Button
 
-It's a sD button with rotation and box style
+It's a 3D button with rotation and box style
