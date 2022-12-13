@@ -1,3 +1,3 @@
 # 3D Button
 
-It's a 3D button with rotation and box style
+This is a 3D button for tutorial only
